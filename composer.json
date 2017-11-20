@@ -1,0 +1,25 @@
+{
+    "name": "bentaylorwork/azurekeyvault",
+    "description": "A simple wrapper for the Azure RM Key Vault API.",
+    "keywords": [
+        "php",
+        "azure",
+        "keyvault"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ben Taylor",
+            "email": "ben@bentaylor.work",
+            "homepage": "https://github.com/bentaylorwork"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "~6.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "bentaylorwork\\azure\\": "src/"
+        }
+    }
+}
