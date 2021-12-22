@@ -1,7 +1,7 @@
 # PHP - Azure Key Vault
 
 ## Overview
-A simple Proof Of Concept wrapper for the Azure RM API making it easy to comsume Azure Key Vault Secrets and Encrypt\DeCrypt strings with a Key.
+A simple Proof Of Concept wrapper for the Azure RM API making it easy to consume Azure Key Vault Secrets and Encrypt\DeCrypt strings with a Key.
 
 More information about Azure Key Vault can be found here: https://docs.microsoft.com/en-us/azure/key-vault/
 
